@@ -2,7 +2,7 @@
 
 An exploratory data analysis on the Covid-19 data from https://ourworldindata.org/covid-deaths website using SQL. 
 
-* The 2 Excel files have been extracted from the larger dataset of the above mentioned sites with selective, relevant columns only
+* The 2 Excel files have been extracted from the larger dataset of the above mentioned site with selective, relevant columns only
 
 * The data set has data till 16th November 2021
 
